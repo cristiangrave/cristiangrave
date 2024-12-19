@@ -38,7 +38,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MSSQL](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![POSTGRES SQL](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :=></h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangrave&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="cristianGrave" 
